@@ -7,10 +7,10 @@ import org.apache.camel.impl.DefaultCamelContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import cn.binarywang.java.camel.processor.ExchangeViewer;
+
 @Configuration
 public class AppConfig {
-
-
     @Bean
     public CamelContext camelContext() throws Exception {
         DefaultCamelContext camelContext = new DefaultCamelContext();

@@ -1,4 +1,4 @@
-package cn.binarywang.java.camel.spring;
+package cn.binarywang.java.camel.processor;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;

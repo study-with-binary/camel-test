@@ -1,4 +1,4 @@
-package cn.binarywang.java.test.camel;
+package cn.binarywang.java.camel.runner;
 
 import java.lang.reflect.Method;
 

@@ -1,4 +1,4 @@
-package cn.binarywang.java.camel;
+package cn.binarywang.java.camel.runner;
 
 import org.apache.camel.CamelContext;
 import org.apache.camel.builder.RouteBuilder;
